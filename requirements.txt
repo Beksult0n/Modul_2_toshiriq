@@ -2,3 +2,4 @@ streamlit
 fastai
 transformers
 torch
+nltk
